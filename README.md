@@ -5,11 +5,6 @@ NodeGo BOT
 - Use Code : NODE071BA6C5D11A
 
 ## Features
-
-  - Auto Get Account Information
-  - Auto Run With [Monosans](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt) Proxy - Choose 1
-  - Auto Run With Private Proxy - Choose 2
-  - Auto Run Without Proxy - Choose 3
   - Auto Claim Daily Check-In
   - Auto Complete Available Tasks
   - Auto Added Node & Send Ping Every 2 Minutes
@@ -41,7 +36,7 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/NodeGo.git
+   git clone https://github.com/bilalrai12/NodeGo.git
    ```
    ```bash
    cd NodeGo
